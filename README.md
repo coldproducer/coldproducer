@@ -1,3 +1,5 @@
 ![alt text](https://rare-gallery.com/thumbs/582569-everlasting.jpg)
 ![Alt Text](https://media.giphy.com/media/aPGJz7WuJAVZfGt5f7/giphy.gif)
-
+<p align="center" width="100%">
+    <img src="https://media.giphy.com/media/aPGJz7WuJAVZfGt5f7/giphy.gif">
+</p>
