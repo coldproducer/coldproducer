@@ -10,6 +10,6 @@
     
 </p>
 
-<p align="center">
+<p align="center" width="100%">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+show+must+go+on">
 </p>
