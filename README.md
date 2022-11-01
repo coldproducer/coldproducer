@@ -7,4 +7,5 @@
     ║║║╚╣╚══╣╚══╣║░░░░░║║░║╚═╝║╚═╝║║║╚╗║╚══╗░║║░║╚══╣╚═╝║║╚═╝║║░░║╚══╣║░║║║
     ╚╝╚═╩═══╩═══╩╝░░░░░╚╝░╚═══╩═══╩╝╚═╝╚═══╝░╚╝░╚═══╩═══╝╚═══╩╝░░╚═══╩╝░╚═╝
     <img width=100% src="https://media.giphy.com/media/aPGJz7WuJAVZfGt5f7/giphy.gif">
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 </p>
