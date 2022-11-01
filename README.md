@@ -7,7 +7,7 @@
     ║║║╚╣╚══╣╚══╣║░░░░░║║░║╚═╝║╚═╝║║║╚╗║╚══╗░║║░║╚══╣╚═╝║║╚═╝║║░░║╚══╣║░║║║
     ╚╝╚═╩═══╩═══╩╝░░░░░╚╝░╚═══╩═══╩╝╚═╝╚═══╝░╚╝░╚═══╩═══╝╚═══╩╝░░╚═══╩╝░╚═╝
     <img width=100% src="https://media.giphy.com/media/aPGJz7WuJAVZfGt5f7/giphy.gif">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&width=100&color=DD2CF7&lines=The+show+must+go+on">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&width=300&color=DD2CF7&lines=The+show+must+go+on">
     
 </p>
 
