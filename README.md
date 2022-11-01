@@ -12,5 +12,5 @@
 </p>
 
 <p align = "center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldproducer&theme=dracula" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldproducer&theme=synthwave" />
 </p>
