@@ -7,4 +7,5 @@
     ║║║╚╣╚══╣╚══╣║░░░░░║║░║╚═╝║╚═╝║║║╚╗║╚══╗░║║░║╚══╣╚═╝║║╚═╝║║░░║╚══╣║░║║║
     ╚╝╚═╩═══╩═══╩╝░░░░░╚╝░╚═══╩═══╩╝╚═╝╚═══╝░╚╝░╚═══╩═══╝╚═══╩╝░░╚═══╩╝░╚═╝
     <img width=100% src="https://media.giphy.com/media/aPGJz7WuJAVZfGt5f7/giphy.gif">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?coldproducer=anuraghazra&theme=dark&show_icons=true)
 </p>
